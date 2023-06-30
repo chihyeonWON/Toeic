@@ -1,4 +1,4 @@
-  ![image](https://github.com/chihyeonWON/Toeic/assets/58906858/f19f3936-a8f0-48a7-a563-85362dace971)# Toeic
+# Toeic
 TOEIC 800 ~ on Summer Vacation.
 [시험 접수, 점수 확인](https://www.toeic.co.kr/)
 
