@@ -1,4 +1,4 @@
-# Toeic
+  ![image](https://github.com/chihyeonWON/Toeic/assets/58906858/f19f3936-a8f0-48a7-a563-85362dace971)# Toeic
 TOEIC 800 ~ on Summer Vacation.
 [시험 접수, 점수 확인](https://www.toeic.co.kr/)
 
@@ -24,3 +24,9 @@ TOEIC 800 ~ on Summer Vacation.
 ```
 나 왜 고급반..? 7.3 ~ 8.1 열심히해서 좋은 결과 있기를
 ```
+## 강의 일정
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/606189e9-c3ee-443c-98d2-e4471681ed3e)         
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/912b6cad-3fc7-4ced-bb62-4ba0851c31de)     
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/d917d556-e10d-4e6c-9e0a-2a7a68f4054b)     
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/479edef5-33e6-4a1a-8709-77e8df06aba1)     
+
