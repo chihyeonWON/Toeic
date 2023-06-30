@@ -18,3 +18,9 @@ TOEIC 800 ~ on Summer Vacation.
 
 ## 모의토익 23.06.23
 ![image](https://github.com/chihyeonWON/Toeic/assets/58906858/f27857d2-a4b7-490c-a97c-21903e1055b4)
+
+## 분반결과발표 23.06.30
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/89ba91c7-8ec5-4812-a132-27e68aa930d4)
+```
+나 왜 고급반..? 7.3 ~ 8.1 열심히해서 좋은 결과 있기를
+```
