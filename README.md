@@ -70,6 +70,50 @@ part3 direction 읽는 동안
 문제 읽어주는 동안에 다음 문제를 미리 읽기
 
 part4 혼자 말하는 상황
+```
 
+#### 07.03 RC 명사
+```
+명사 문법 몇가지를 외워서 문제에 바로 적용하게끔 연습
 
+사람명사 vs 일반명사
+employee vs employement는 앞의 형용사 qualified 자격이 있는이 있는 것으로 보아 사람명사인 employee
+동명사 vs 일반명사
+duplicating : 복사하는 것 동명사는 추가적으로 명사가 있어야한다.
+
+a, an, the 뒤에 나올 수 없는 불가산명사를 외워서 답에서는 거른다
+셀 수 있는 명사 앞에는 a/an
+
+personality 성격
+sales representatives 영업 사원 (명 + 명 =복합명사)
+동사 보고 명사자리에 사람인지 사물인지 판단
+
+opening 공석, 임시
+illustrator 삽화가, illustration 삽화
+
+be 동사 뒤에는 형용사나 명사가 올 수 있고
+형용사가 8 명사가 2의 비율로 형용사가 be동사뒤에 올 확률이 높
+
+concerning,regarding,about,on : ~에 대해서
+statement : 성명
+
+expend : 소비하다 expand : 확장하다
+
+전치사 + (명사,동명사) 동명사일때는 뒤에 명사가 있어야
+
+varteties 품종
+
+initiative : 계획/회의
+temporary openings : 임시직
+
+learn : 배우다로 해석하지말고 알게 되다로 해
+authority : 권위
+authorize : 승인, 허가
+authorization : 정부관계자
+
+As ~pp : ~pp된대로 As stated : 명시된대로
+
+part6는 뒤의 문장의 시제로 시제를 유추해서 푼다
+part6의 빈칸은 글의 문맥을 파악해야한다.
+문장삽입: 답을 추론하는 개인의 사고방식을 제외 글에서 어울리는 글에 맞는 글의 문맥에 맞는 답을 선택
 ```
