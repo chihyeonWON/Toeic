@@ -163,4 +163,37 @@ approximately : 약, 대략 <- 숫자 뒤에 자주 쓰
 
 obtain, set, gain, attain, acquire, secure <- 얻다라는 동사 뒤에 prize, approval, permission 명사
 take a measure 조취를 취하다 
+
+오후 RC 문법
+
+주어 자리의 대명사를 고를 때는 수일치를 고려
+
+a shop of own, my shop, my own shop
+
+접속사 뒤에 주어 넣으려고 봤는데 I 인데 동사를 봤더니 수일치를 고려해보고
+소유대명사 mine이 답이 될 수 있다.
+
+재귀대명사 : 그가 직접, 강조의 의미 재귀대명사 삭제가 가능, 문장 끝이면 재귀대명사일 수 있다.
+by 뒤면 재귀대명사
+목적어로 쓴 재귀대명사는 생략 못하고 동사뒤에 나오는 목적어로 쓴 재귀대명사는
+주어와 일치해야함
+
+those who : ~하는 사람
+빈칸 뒤에 who, wishing, interested, in, with가 나오면 those 뒤에 동사 are
+뒤에 동사가 is면 anyone
+
+those랑 anyone 구별법 : 뒤에 동사가 are면 those 뒤에 동사가 is면 anyone
+
+지칭하는 명사가 복수면 those 단수면 that
+
+conduct : 수행하다 = implement
+properties : 부동산(물건)
+
+interested 앞에 those, anyone, everyone 답이 될 수 있는데 동사보고 단수면 anyone, everyone
+
+each other : 서로서로
+earn the respect : 존중을 받다
+
+
+
 ```
