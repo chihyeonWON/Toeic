@@ -117,3 +117,29 @@ part6는 뒤의 문장의 시제로 시제를 유추해서 푼다
 part6의 빈칸은 글의 문맥을 파악해야한다.
 문장삽입: 답을 추론하는 개인의 사고방식을 제외 글에서 어울리는 글에 맞는 글의 문맥에 맞는 답을 선택
 ```
+## 23.07.04
+```
+LC 오전
+reaching for : 손을 뻗다
+distributing : 나눠주다
+handout : 인쇄
+pointing at : 가리키다
+display, stack, placed : 물건이 나열,진열되어있는 모습
+
+실외 사진 묘사 (구도 묘사)
+overlooking : 구도를 나타내는 넘겨져보이다
+over the river 강 위에
+
+railing 난간
+be being p.p 는 그림에 사람이 묘사되어야 함
+fountain : 분수
+
+awning : 차양
+
+propped up : 기대어 있다
+a curb : 길 거리에 연석
+
+unattended : 방치되어 있다.
+laundry detergent : 세탁용 세제
+
+```
