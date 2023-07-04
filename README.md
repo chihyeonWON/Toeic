@@ -142,4 +142,25 @@ a curb : 길 거리에 연석
 unattended : 방치되어 있다.
 laundry detergent : 세탁용 세제
 
+제품소개
+in other words : 다시말해서
+On the contrary : 대조적으로
+At the same time : 동시에
+
+접속사를 넣을 때는 앞 뒤 문장의 동사보고 유사-> 동시에가 답
+문장 넣기 맨 처음or끝 -> 끝에 왔을때 문장 결론을 맺음 축약
+글의 독해력을 키운다.
+
+has announced ~ s+ will 동+원
+spokeperson : 대변인
+fierce : 치열한 <- selection 선택보다 competition 경쟁이 더 문맥에 맞다
+cutting-edge : 최첨단의 최신식의
+fascinating : 매혹적인 동사에 ing가 붙은 형용사 뒤에 사물
+
+prior to : ~ 이전에
+anticipate : 기대하다, 예상하다
+approximately : 약, 대략 <- 숫자 뒤에 자주 쓰
+
+obtain, set, gain, attain, acquire, secure <- 얻다라는 동사 뒤에 prize, approval, permission 명사
+take a measure 조취를 취하다 
 ```
