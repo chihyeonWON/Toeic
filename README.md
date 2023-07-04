@@ -194,6 +194,18 @@ interested 앞에 those, anyone, everyone 답이 될 수 있는데 동사보고 
 each other : 서로서로
 earn the respect : 존중을 받다
 
+those (who are) working : who are이 생략될 수 있음
 
+each, every 는 단수명사랑 옴
+each of the 복수명사랑 오고 단수 동사가
 
+both는 복수대명사로도 쓰임
+
+페러프레이징 <- 지문에서 썼던 단어를 다른 같은 단어로 대체
+유사한 단어를 외우는 이유
+
+문장삽입은 문장의 흐름을 파악
+동의어 문제는 바꿔쓸 수 있는 단어
+keep 은 여러가지 뜻이 있을 수 있고 maintain, prevent 등 동의어가 있는데
+여러 가지 중에 바꿔쓸 수 있는 것을 고른다.
 ```
