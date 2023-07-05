@@ -243,5 +243,98 @@ spacious : 넓은
 impending : 임박한, 도래하는
 rewarding : 보람된
 accomplished : 뛰어난
-issue <- 발행하다. 
+issue <- 발행하다.
+
+오후 RC
+형용사
+~ive, ~ous, ~ly
+명사 + ly -> 형용사, 형용사 + ly -> 부사
+부사로 착각하기 쉬운 형용사
+lovely, friendly, costly, likely, friendly, lively
+
+be, become,
+make, find, consider, think ~ 형용사(보어)
+형용사 명사
+동명사 형용사 명사
+
+동사가 변화해서 형용사 -> 분사
+동사 ~ing -> 하는
+동사 ~ed -> 되는 
+
+보기에 분사와 형용사가 둘 다 있다면 원래 형용사를 우선적으로 선택
+
+부정대명사(somebody,somewhere,anyone)은 형용사가 뒤에서 꾸며준다
+
+each of the 복수명사 단수동사
+all of the 복수명사 복수동사
+others 복수동사
+
+portable 휴대가능한
+be subject to : ~에 부과되다.
+be accustomed to : ~에 익숙하다
+
+(전치사) 형용사 명사
+proportions 비율
+talented = gifted : 재능이 있는
+
+any 단수
+some 복수
+such a 형명
+
+beneficial, useful, informative : 유익한
+
+a number of 복수명사 = many = a lot of = 많은
+
+be eligible for : ~할 자격이 있다
+
+live 살아있는 lively 활기찬
+
+extensive : 광범위한
+
+be 뒤에 명사,형용사
+부사 뒤에는 명사가 올 수 없다.
+
+so : 긍정 too : 부정 : 너무 ~
+
+devoted : 헌신적인
+enthusiastic : 열정적인
+exective : 회사 고위관료직
+
+have pp 과거에서부터 해왔다.
+have been pp : 과거에서부터 해와져왔다.
+have been(be) 형용사
+
+hesitant : 주저하는
+
+candidate 후보자
+administrative : 관리직의
+
+a few , a little 약간
+few 셀수 있는 조금 있는
+little 셀수 없는는 조금 있는
+
+few 거의없는
+
+readily : 손쉽게
+accessible : 접근가능한
+
+disruptive 지장을 주는
+disruptions 방해,장애요소
+
+have been은 pp가 무조건 오는게 아니라 형용사도 올 수 있다.
+
+단일지문은 문제부터 읽고 지문에서 답을 찾아낸다.
+페러프레이징 유사한 글
+
+*,Note처럼 굵은글씨 특이사항에 답의 근거가 있다.
+
+문제 순서는 글의 진행상황과 순서대로 일치하여 등장
+
+to confirm :확인하기 위해서
+여러 개의 항목중에 어떤 항목인지 정확하게읽기
+지문의 내용과 틀린 단어나 내용이 있으면 소거
+정답이 이상할 확률이 높아서
+
+out of stock 재고가없다 = not currently available
+
 ```
