@@ -209,3 +209,39 @@ both는 복수대명사로도 쓰임
 keep 은 여러가지 뜻이 있을 수 있고 maintain, prevent 등 동의어가 있는데
 여러 가지 중에 바꿔쓸 수 있는 것을 고른다.
 ```
+## 23.07.05
+```
+part2 오답소거
+
+의문사 who(사람), when(날짜), where(장소) <- yes나 no 소거
+
+who <- 사람(mr, mrs), 직책, 직위, 부서, everyone, anyone, 책임회피문
+when <- 날짜, 모호한 날, 서로 다른 시점
+where <- 사람이 제출서로서 정답이될 수 있다. manager, 출처(on the website)
+의문사랑 동사로 정답유추, 질문에 나온 동사와 정답에 나온 동사 비교
+의문문?에 답변이 의문문? 일 수 있다.
+
+How <- 방법제시
+
+간접 의문문 <- do you know where ~is? <- 뒤쪽에나오는 where의문사를 잘 들어야한다.
+
+input : 피드백
+patrons : 이용빈도가 높은 고객, 단골손님
+arge : 촉구하다
+considerly : 상당히 (증가, 감소와 자주쓰임) consider : 고려하다 considerable : 상당한
+
+due to : ~ 때문에 = because of
+expanditure : 지출
+동사에 ing : ~하는 것 <- 단수취급 is
+reflect : 반영하다
+up front to : 정직한, 솔직한
+address : 언급하다, 다루다, 처리하다,
+
+attach, enclose, included, listed + document, file, contract, itinerary, schedule, invoice
+itinerary : 일정표
+spacious : 넓은
+impending : 임박한, 도래하는
+rewarding : 보람된
+accomplished : 뛰어난
+issue <- 발행하다. 
+```
