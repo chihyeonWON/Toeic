@@ -336,5 +336,50 @@ to confirm :확인하기 위해서
 정답이 이상할 확률이 높아서
 
 out of stock 재고가없다 = not currently available
+```
+## 23.07.10
+```
+LC
 
+세부 정보를 묻는 의문사 What/why/How
+
+by 뒤에 문장을 잘듣는다
+run into 우연히 만나다
+specializing : 전문으로 하다
+concern, worried, 걱정거리
+luggage : 짐
+expire : 만료되
+
+partically : 완전히
+in person : 직접
+cover letter : 자기소개서
+resume : 이력서
+
+ahead of time : 미리
+waive : 가격을 감면하다
+
+overheard : 우연히 듣다
+encounter : 우연히 마주치다
+recurring = occur : 발생하다
+
+witness : 목격하다
+
+불확실성 not clear 뒤에 if, whether 인지 아닌지 가 온다.
+after all : 결국
+
+fregrance : 향
+scent : 향기
+
+불특정 다수 : others
+them이 나오려면 앞에 특정한 그들이 있어야함
+
+impose, charge : 부과하다
+waive : 면제하다
+
+fine, penalty : 벌금
+
+the court : 법원
+sustantial : 상당한
+
+근거를 찾아서 ~가 정답 이런식으로 풀어야함
 ```
