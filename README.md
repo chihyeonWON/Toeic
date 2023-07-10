@@ -421,10 +421,37 @@ That 명사절  동사에 s
 
 Both A and B ~ are 복수 동사
 
+주어가 두개 ~ and ~ 복수동
 
+inclement weather : 악천후
 
+inclement : 험악한
 
+진짜 주어, 동사를 잘 찾아서 형식, 수일치시켜서 시간 단축
 
+이메일에 회사,직책이 있을 수 있음
 
+Perry <- TO 받는 사람
 
+장문 문제 풀때 문제에 나오는 사람 체크
+
+getting hold on = contact : 연락하다
+
+go over = review = 검토하다
+
+employer : 고용주
+employee : 직원
+employed : 취직중인 고용된 상태인
+unemployed : 실직한
+employale 고용할 만한
+unemployable 취업할 수 없는
+employment : 고용
+unemployment : 실업, 실업률
+
+applicant : 지원자
+appliance : 기기
+applicable : 해당되는
+applicability : 적용가능성
+application : 지원 적용 응용
+application form : 지원서 신청서
 ```
