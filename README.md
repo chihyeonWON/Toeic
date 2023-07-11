@@ -532,9 +532,24 @@ cannot 동사원형 목적어가 있다
 
 over the few days ~ 지난 몇일 동안 -> have pp 현재완료와 같이 쓰임
 
+목적어가 1개일 때 -> be pp
 
+be 나오고 목적어가 없다 -> pp
+be 나오고 목적어가 있다 -> ing
 
+be to 용법 <- 의도,예정, 의무 중에 하나로 해석
+문맥 파악하고
 
- 
+be committed ~ing 헌신하다
+be devoted ~ing 헌신하다 
 
+synthetic : 합성의
+
+soles 밑창
+
+however 뒤에 페러프레이징 되어 있는 것이 답이 될 확률이 높다.
+
+Article 고유명사, 사람이름이 많이 나옴
+
+글의 목적은 두 문단에서 해결되는 경우가 많다.
 ```
