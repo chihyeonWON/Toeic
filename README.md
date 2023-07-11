@@ -455,3 +455,51 @@ applicability : 적용가능성
 application : 지원 적용 응용
 application form : 지원서 신청서
 ```
+## 23.07.11
+```
+LC
+
+Why don't you ? 권유할 때 yes/no 가 가능
+
+what/which 뒤에 어떤 말이 나오냐에 따라 다른 의문사로 대체되기때문에
+정답의 범위가 넓어짐, yes/no가 불가능
+
+what 불특정 다수에 어떤 것 which는 특정한 것 중에 어떤 것
+
+harbor 항구
+
+why의 대답으로 올 수 있는 것 : because, to, because를 빼고 대답하는편
+
+office supply : 사무용품
+
+which ? ~ the one
+file a complaint : 불만을 제기하다.
+
+how do you like ? : 어때요?
+
+what dimension : 면적이 어떻게 됩니까?
+
+nothing so far : 아직까지는 답이 없다
+
+what did you think ? how do you like ? = 어때요?
+
+armchair occupied : 팔걸이가 있는 의자에 사람이 있다.
+
+wheelbarrow : 휠체어
+
+handout 인쇄물
+instructions : 사양서
+
+rarely 거의 ~않는
+then ~ 다음에
+
+conserve 보존하다.
+conservation : 보수주의
+
+milestone: 업적, 획기적인 시점
+refreshment : 다과
+
+
+
+
+```
