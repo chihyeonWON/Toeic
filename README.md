@@ -499,7 +499,42 @@ conservation : 보수주의
 milestone: 업적, 획기적인 시점
 refreshment : 다과
 
+RC
+
+have + pp 현재 완료
+
+she suggested that she submit ~
+(should 조동사가 생략됨)
+요청, 제안 that + 주어 (should) + 동사원형
+order, demand, require, advise, propose, vital, necessary, important
+
+qualify for
+
+let, make, have 사역동사 뒤에 동사 하나 더 나옴 시키다라는 뜻
+
+감정동사 bore
+주어가 사람일 경우 pp 사물일 경우 ing
+
+comply with, follow, observe, adhere to, conform to : 따르다, 준수하다
++ requirement, low,
+
+inform of
+proceed with
+please : ~해주세요 + 동사원형
+
+a number of 복수명사 are
+the number of students 단수동사 <- the number of <- ~의 숫자
+
+뒤에 목적어가 없다 < - be pp
+뒤에 목적어가 있다 동사원형
+cannot be pp 목적어가 없다
+cannot 동사원형 목적어가 있다
+
+over the few days ~ 지난 몇일 동안 -> have pp 현재완료와 같이 쓰임
 
 
+
+
+ 
 
 ```
