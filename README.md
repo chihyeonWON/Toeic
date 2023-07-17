@@ -553,3 +553,30 @@ Article 고유명사, 사람이름이 많이 나옴
 
 글의 목적은 두 문단에서 해결되는 경우가 많다.
 ```
+```
+07.17 LC
+
+agenda : 안건
+complimentary : 무료의
+brief : 짧은
+take advantage of : ~를 이용하다
+footnote : 각주
+citing : 언급하는
+
+will have pp : 뒤에 정확한 시점이 나와야한다
+be to : 예정의 의미로 쓰임 미래
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
