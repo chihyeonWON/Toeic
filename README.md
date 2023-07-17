@@ -566,7 +566,49 @@ citing : 언급하는
 will have pp : 뒤에 정확한 시점이 나와야한다
 be to : 예정의 의미로 쓰임 미래
 
+RC 부사절
 
+접속사 Because 주어 동사
+전치사 Because of 명사 / 명사+ing
+
+접속사, 전치사 구분
+뒤에 명사 -> 전치사
+뒤에 문장 -> 접속사
+
+그럼에도 불구하고
+nevertheless, however, menawhile, s+ v 주어 동사 오는 접속사
+despite, in spite of ~ 명사 오는 전치사
+
+before, since, until, atter 시간 접속사, 전치사 둘 다 쓰임
+
+접속사와 현재동사, 현재 완료  <- 뒤에 will 미래가 나왔을 때
+
+부사절접속사 <- 빼도 뒤에 본 문장이 있기 때문에 빼도 상관없음
+that <- 빼면 안되는 명사절 접속사 I knew that S + V
+
+문장과 문장을 이어주는 등위 접속사 so, and, so that, but, yet, or 는
+문장의 맨 앞에 올 수 없다.
+
+Now that : ~ 때문에
+
+as + N : ~로서
+as + S + V : ~때문에, ~ 동안에
+
+lucrative : 수익성이 좋은
+assuming that : ~로 가정해보았을 때
+
+Given that ~ : ~를 고려할때
+
+After all, s + v 결국에
+provided that : ~점을 고려해볼 때
+so as to + v ~ 하기 위하여
+already 부사
+in anticipation of + N ~을 기대하고, 전망하여
+once ~ 일단 ~ 하면
+
+closed a deal 계약을 체결하다
+premise : 부지
+hit the ground running : 잘 나아가다
 
 
 
