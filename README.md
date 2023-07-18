@@ -609,16 +609,35 @@ once ~ 일단 ~ 하면
 closed a deal 계약을 체결하다
 premise : 부지
 hit the ground running : 잘 나아가다
+```
+```
+LC
 
+have been meaning to : ~하려고 했었다.
+confuse : 혼란시키다
+reassure : 재확신하다
+stains : 얼룩들
+catered : 출장 연회를 가다
 
+typo : 오타
+student loan : 학자금 대출
 
+malfunctioning : 고장난
 
+under warranty : 보증기간안에 있는
+public garage : 공용 주차장
 
+batch : 회수, 회
+bureau = department : 부서 사무실
 
+namely : 즉
+persist : 지속하다
+reside : 거주하다
+determine : 결정하다
+figure out : 알아내다, 해결하다
 
-
-
-
-
-
+trainee : 수습직원
+cultivate : 양성하다
+stipend : 생활비
+entitled : 자격을 주다
 ```
