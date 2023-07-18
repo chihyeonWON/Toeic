@@ -640,4 +640,51 @@ trainee : 수습직원
 cultivate : 양성하다
 stipend : 생활비
 entitled : 자격을 주다
-```
+
+RC
+전치사
+
+전치사 뒤에는 무조건 명사 <전치사 명사/ -ing> + 명사
+as of -부터의 일자로
+until - 진행되다가 ~까지
+by - 종료 ~까지
+since ~까지 <- 현재 완료시제 have pp가 나온다
+
+throughout : ~전역에 ~도처에
+within ~ 도보거리 이내에
+despite, in spite of, notwithstanding : 그럼에도 불구하고
+despite of <- 없는 거
+
+without : ~없이
+including : ~을 포함하여 전치사
+via ~를 통하여
+
+in a timely manner : 시기적절하게
+upon -ing + 명사 : ~ 하자마자
+upon 명사 receipe : 수령하자마자
+
+dispute over :~에 대한 논쟁
+be affiliated with : ~와 제휴하다
+be ideal for ~에 이상적이다.
+be capable of ~을 할 수 있다.
+in place of ~을 대신하여
+
+be cope with : 다루다
+
+전치사/접속사를 구분해서 소거한 후에
+해석해서 넣기
+
+diy do it yourself : 직접 만든다
+evenly 공평하게
+service : 점검하다
+
+a respite from : 일시적 중단, 한숨돌리기
+
+이중지문 문제 <- 한 지문 보고 문제 풀고 그다음 지문 보고 문제 풀고
+
+굵은 글씨체, note는 한 문제의 답이 되는 중요한 문장
+packable = portable : 휴대 가능한
+
+
+
+``` 
