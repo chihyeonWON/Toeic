@@ -726,5 +726,73 @@ clarity : 명확성
 deletion : 삭제
 relevance : 유효성
 
+RC
+명사절 접속사
+
+접속사 S + V 가 문장의 주어, 목적어 자리에 오면
+뺄 수 없는 명사절 접속사가 된다.
+
+완전한문장 VS 불완전한 문장
+do 라는 동사는 뒤에 목적어가 와야하는 문장
+do something 완전한 문장
+do x 불완전한 문장 <- who나 what 이 올수 있다.
+
+불완전한 문장에는 사물 what 사람 who
+
+or not이 보이면 if가 아닌 whether 인지아닌지를 넣는다
+
+관계대명사 + ever > 부사절,명사절 접속사로 쓰일 수 있다.
+whoever ~하는 사람 누구든지
+
+that + 완전한 문장
+who/what + 불완전한 문장
+
+불확실성을 나타내는 동사 don't know, see 뒤에는 if, whether
+if 를 쓰지 않는 경우 : 문장의 맨앞에, 뒤에 or not, to 부정사 가 있을 때
+if 대신 whether 를 쓴다.
+
+be confident that : ~에 자신감 있다.
+
+if < 문장의 맨앞에 왔을 때는 ~인지 아닌지의 뜻이 아닌 ~라면 으로 쓰인다
+
+how long, how often, how+ 형용사랑 잘 쓰인다
+
+a panel of < 집단의
+
+spin : 제자리를 돈다
+circle : 순환하다
+roll : 굴리다
+
+since 과거 ~이후로 앞에 현재완료가 있다.
+excessive 과도한
+
+crtical/great/vital <- 매우~
+vaguely : 모호하게
+irreversly : 되돌릴 수 없는
+
+소유격 뒤에는 명사
+
+reveal : 드러내다, 출시하다
+outline : 개요를 나타내다
+scheduled : 예정된
+
+fastend securely : 꽉 붙잡다
+serve :~의 역할을 하다
+across ~ 전체에 걸쳐서
+
+wonder 궁금하다
+wander 돌아다니다
+
+이중지문 < 첫번째 지문으로  2문제 2번째 지문으로 2문제
+
+avid : 욕심많은 
+
+
+
+
+
+
+
+
 
 ```
