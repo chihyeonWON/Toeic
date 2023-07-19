@@ -684,7 +684,47 @@ a respite from : 일시적 중단, 한숨돌리기
 
 굵은 글씨체, note는 한 문제의 답이 되는 중요한 문장
 packable = portable : 휴대 가능한
+```
+```
+23.07.19 LC
+
+간접의문문 - 격식을 조금 차린 질문
+Do you know ~ where 뒤에 나오는 의문절이 더 중요
+will you 미래의 계획 질문
+
+부정의문문은 질문에 대한 답변이 맞으면 yes 아니면 no
+사실여부만 가지고 판단
+
+yes나 no로 답 가능
+
+buliding directory : 건물안내도
+
+the bus runs < 버스가 운행하다
+look over : 검토하다
+if < ~인지 아닌지
+
+get in touch : 연락을 취하다
+time sheet : 근무기록표
+canal : 수로
+
+put on, try on <- 쓰려고 하는 모습
+wearing <- 쓴 모습
+
+venue : 연회등을 할 수 있는 장소
+
+step by : 들르다
+
+follow-up-visit : 후속조취를 위해 방문하다
+be supposed to : ~하기로 되어있다.
+be about to : 막 ~하려고 하다.
+
+catering : 출장연회
+receptionist : 데스크 직원
+
+unless = if not = ~하지 않는한
+clarity : 명확성
+deletion : 삭제
+relevance : 유효성
 
 
-
-``` 
+```
