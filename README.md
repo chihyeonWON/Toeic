@@ -786,6 +786,40 @@ wander 돌아다니다
 이중지문 < 첫번째 지문으로  2문제 2번째 지문으로 2문제
 
 avid : 욕심많은 
+```
+```
+apparel : 의복, 의류
+hardware store : 집수리에 필요한 물건들을 파는 큰 공간
+
+sculptor : 조각가
+craft : 공예품
+adhesive : 접착제
+afterwards : 추가로
+
+exclusive right : 독점권
+
+more 형용사
+
+pros and cons : 장단점
+a plumber : 배관공
+
+unless 현재완료 + 다음문장에미래
+
+incorporation : 결합
+intermission : 공연중 휴식시간
+accessory : 장신구
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
