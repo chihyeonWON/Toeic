@@ -808,25 +808,66 @@ unless 현재완료 + 다음문장에미래
 incorporation : 결합
 intermission : 공연중 휴식시간
 accessory : 장신구
+```
+```
+23.07.24 
 
+관계대명사
+연결대명사
 
+He has a daughter and she is cute
+-> He has a daughter who is cute
 
+He has a book and it is boring
+->He has a book which is boring (주격 관계대명사), 불완전한 문장
 
+관계 대명사 - who (사람), which(사물), that(둘다)
+관계 대명사 that은 생략 가능하다.
 
+I have a girlfriend and everyone likes her.
+-> I have a girlfriend who everyone likes (목적격 관계대명사)
+목적격 관계대명사일 때 who, whom 가능, 생략 가능, 불완전한 문장
 
+I have a book and he likes it
+-> I have a book which he likes
 
+I have a daughter and her hair is red.
+-> I have a daughter whose hair is red. (소유격 관계 대명사)
+소유격 관계 대명사는 사물, 사람 모두 whose, + 완전한 문장
 
+I have a book and its cover is hard
+-> I have a book whose cover is hard 
 
+This is a house and I lived in
+-> This is a house which I lived in
+-> This is a house in which I lived in
+in which를 관계부사(전치사 + 관계대명사) 완전한문장
 
+장소 -> where
+시간 -> when
+이유 -> why
+방법 -> how
 
+in which를 where 관계부사로 바꿔쓰는 것이 가능하다.
+관계부사는 완전한 문장
 
+the place 뒤에 불완전하면 which 완전하면 where
 
+whose, 관계부사 뒤에 완전한 문장
 
+candidate : 후보자
 
+the way <- how 둘중에 하나만 쓰임
+the reason <- why 둘다 쓰일 때도 있고 하나만 쓸 수 있음
 
+pratice: 개원한 병원, 변호사사무실, 개원하다
 
+however + 형용사/부사 : ~할지라도
 
+which are이 생략되서 pp ing가 남는다.
 
-
+수량형용사 of + whom(사람), which(사물)
+that은 , 뒤에 못나옴
+reimburstment : 상환
 
 ```
