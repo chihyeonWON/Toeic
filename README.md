@@ -268,7 +268,378 @@ make, find, consider, think ~ 형용사(보어)
 each of the 복수명사 단수동사
 all of the 복수명사 복수동사
 others 복수동사
-게
+
+portable 휴대가능한
+be subject to : ~에 부과되다.
+be accustomed to : ~에 익숙하다
+
+(전치사) 형용사 명사
+proportions 비율
+talented = gifted : 재능이 있는
+
+any 단수
+some 복수
+such a 형명
+
+beneficial, useful, informative : 유익한
+
+a number of 복수명사 = many = a lot of = 많은
+
+be eligible for : ~할 자격이 있다
+
+live 살아있는 lively 활기찬
+
+extensive : 광범위한
+
+be 뒤에 명사,형용사
+부사 뒤에는 명사가 올 수 없다.
+
+so : 긍정 too : 부정 : 너무 ~
+
+devoted : 헌신적인
+enthusiastic : 열정적인
+exective : 회사 고위관료직
+
+have pp 과거에서부터 해왔다.
+have been pp : 과거에서부터 해와져왔다.
+have been(be) 형용사
+
+hesitant : 주저하는
+
+candidate 후보자
+administrative : 관리직의
+
+a few , a little 약간
+few 셀수 있는 조금 있는
+little 셀수 없는는 조금 있는
+
+few 거의없는
+
+readily : 손쉽게
+accessible : 접근가능한
+
+disruptive 지장을 주는
+disruptions 방해,장애요소
+
+have been은 pp가 무조건 오는게 아니라 형용사도 올 수 있다.
+
+단일지문은 문제부터 읽고 지문에서 답을 찾아낸다.
+페러프레이징 유사한 글
+
+*,Note처럼 굵은글씨 특이사항에 답의 근거가 있다.
+
+문제 순서는 글의 진행상황과 순서대로 일치하여 등장
+
+to confirm :확인하기 위해서
+여러 개의 항목중에 어떤 항목인지 정확하게읽기
+지문의 내용과 틀린 단어나 내용이 있으면 소거
+정답이 이상할 확률이 높아서
+
+out of stock 재고가없다 = not currently available
+```
+## 23.07.10
+```
+LC
+
+세부 정보를 묻는 의문사 What/why/How
+
+by 뒤에 문장을 잘듣는다
+run into 우연히 만나다
+specializing : 전문으로 하다
+concern, worried, 걱정거리
+luggage : 짐
+expire : 만료되
+
+partically : 완전히
+in person : 직접
+cover letter : 자기소개서
+resume : 이력서
+
+ahead of time : 미리
+waive : 가격을 감면하다
+
+overheard : 우연히 듣다
+encounter : 우연히 마주치다
+recurring = occur : 발생하다
+
+witness : 목격하다
+
+불확실성 not clear 뒤에 if, whether 인지 아닌지 가 온다.
+after all : 결국
+
+fregrance : 향
+scent : 향기
+
+불특정 다수 : others
+them이 나오려면 앞에 특정한 그들이 있어야함
+
+impose, charge : 부과하다
+waive : 면제하다
+
+fine, penalty : 벌금
+
+the court : 법원
+sustantial : 상당한
+
+근거를 찾아서 ~가 정답 이런식으로 풀어야함
+
+RC 동사
+
+동사 문제 풀때는 형식, 수일치 고려
+
+동사의 종류
+조동사, 일반동사, be 동사
+
+자동사
+go, remain,
+
+1형식 자동사는 뒤에 전치사가 필요하다
+ex) go to the station, went to the station,
+
+문장이 었던 것을 명사로 만들어 주는 접속사 that 명사절
+
+4형식 수여동사 -> S + V + 사람(~에게) + 사물(~를)
+
+5형식 S + V + O + O.C(목적격보어 형용사)
+
+anounced that s + v
+asked to 동사원형
+
+형식에 따라서 제거할 동사들을 가릴 수 있다.
+arrive 1형식
+
+수일치
+
+주어가 단수일 때 동사에 s
+불가산명사일때 동사에 s all equipment <-
+To 부정사 ~하는 것 동사에 s
+That 명사절  동사에 s
+
+수식어 주저리주저리 붙은애들 -> 수일치 -> 단수 -> was
+해석하다가 꾸며주는 문장 S + V 나오면 묶어서 해석안해도됨 왜냐 꾸며주는 애들이기 때문
+진짜 주어 S를 찾아서 그에 맞게 동
+
+Both A and B ~ are 복수 동사
+
+주어가 두개 ~ and ~ 복수동
+
+inclement weather : 악천후
+
+inclement : 험악한
+
+진짜 주어, 동사를 잘 찾아서 형식, 수일치시켜서 시간 단축
+
+이메일에 회사,직책이 있을 수 있음
+
+Perry <- TO 받는 사람
+
+장문 문제 풀때 문제에 나오는 사람 체크
+
+getting hold on = contact : 연락하다
+
+go over = review = 검토하다
+
+employer : 고용주
+employee : 직원
+employed : 취직중인 고용된 상태인
+unemployed : 실직한
+employale 고용할 만한
+unemployable 취업할 수 없는
+employment : 고용
+unemployment : 실업, 실업률
+
+applicant : 지원자
+appliance : 기기
+applicable : 해당되는
+applicability : 적용가능성
+application : 지원 적용 응용
+application form : 지원서 신청서
+```
+## 23.07.11
+```
+LC
+
+Why don't you ? 권유할 때 yes/no 가 가능
+
+what/which 뒤에 어떤 말이 나오냐에 따라 다른 의문사로 대체되기때문에
+정답의 범위가 넓어짐, yes/no가 불가능
+
+what 불특정 다수에 어떤 것 which는 특정한 것 중에 어떤 것
+
+harbor 항구
+
+why의 대답으로 올 수 있는 것 : because, to, because를 빼고 대답하는편
+
+office supply : 사무용품
+
+which ? ~ the one
+file a complaint : 불만을 제기하다.
+
+how do you like ? : 어때요?
+
+what dimension : 면적이 어떻게 됩니까?
+
+nothing so far : 아직까지는 답이 없다
+
+what did you think ? how do you like ? = 어때요?
+
+armchair occupied : 팔걸이가 있는 의자에 사람이 있다.
+
+wheelbarrow : 휠체어
+
+handout 인쇄물
+instructions : 사양서
+
+rarely 거의 ~않는
+then ~ 다음에
+
+conserve 보존하다.
+conservation : 보수주의
+
+milestone: 업적, 획기적인 시점
+refreshment : 다과
+
+RC
+
+have + pp 현재 완료
+
+she suggested that she submit ~
+(should 조동사가 생략됨)
+요청, 제안 that + 주어 (should) + 동사원형
+order, demand, require, advise, propose, vital, necessary, important
+
+qualify for
+
+let, make, have 사역동사 뒤에 동사 하나 더 나옴 시키다라는 뜻
+
+감정동사 bore
+주어가 사람일 경우 pp 사물일 경우 ing
+
+comply with, follow, observe, adhere to, conform to : 따르다, 준수하다
++ requirement, low,
+
+inform of
+proceed with
+please : ~해주세요 + 동사원형
+
+a number of 복수명사 are
+the number of students 단수동사 <- the number of <- ~의 숫자
+
+뒤에 목적어가 없다 < - be pp
+뒤에 목적어가 있다 동사원형
+cannot be pp 목적어가 없다
+cannot 동사원형 목적어가 있다
+
+over the few days ~ 지난 몇일 동안 -> have pp 현재완료와 같이 쓰임
+
+목적어가 1개일 때 -> be pp
+
+be 나오고 목적어가 없다 -> pp
+be 나오고 목적어가 있다 -> ing
+
+be to 용법 <- 의도,예정, 의무 중에 하나로 해석
+문맥 파악하고
+
+be committed ~ing 헌신하다
+be devoted ~ing 헌신하다 
+
+synthetic : 합성의
+
+soles 밑창
+
+however 뒤에 페러프레이징 되어 있는 것이 답이 될 확률이 높다.
+
+Article 고유명사, 사람이름이 많이 나옴
+
+글의 목적은 두 문단에서 해결되는 경우가 많다.
+```
+```
+07.17 LC
+
+agenda : 안건
+complimentary : 무료의
+brief : 짧은
+take advantage of : ~를 이용하다
+footnote : 각주
+citing : 언급하는
+
+will have pp : 뒤에 정확한 시점이 나와야한다
+be to : 예정의 의미로 쓰임 미래
+
+RC 부사절
+
+접속사 Because 주어 동사
+전치사 Because of 명사 / 명사+ing
+
+접속사, 전치사 구분
+뒤에 명사 -> 전치사
+뒤에 문장 -> 접속사
+
+그럼에도 불구하고
+nevertheless, however, menawhile, s+ v 주어 동사 오는 접속사
+despite, in spite of ~ 명사 오는 전치사
+
+before, since, until, atter 시간 접속사, 전치사 둘 다 쓰임
+
+접속사와 현재동사, 현재 완료  <- 뒤에 will 미래가 나왔을 때
+
+부사절접속사 <- 빼도 뒤에 본 문장이 있기 때문에 빼도 상관없음
+that <- 빼면 안되는 명사절 접속사 I knew that S + V
+
+문장과 문장을 이어주는 등위 접속사 so, and, so that, but, yet, or 는
+문장의 맨 앞에 올 수 없다.
+
+Now that : ~ 때문에
+
+as + N : ~로서
+as + S + V : ~때문에, ~ 동안에
+
+lucrative : 수익성이 좋은
+assuming that : ~로 가정해보았을 때
+
+Given that ~ : ~를 고려할때
+
+After all, s + v 결국에
+provided that : ~점을 고려해볼 때
+so as to + v ~ 하기 위하여
+already 부사
+in anticipation of + N ~을 기대하고, 전망하여
+once ~ 일단 ~ 하면
+
+closed a deal 계약을 체결하다
+premise : 부지
+hit the ground running : 잘 나아가다
+```
+```
+LC
+
+have been meaning to : ~하려고 했었다.
+confuse : 혼란시키다
+reassure : 재확신하다
+stains : 얼룩들
+catered : 출장 연회를 가다
+
+typo : 오타
+student loan : 학자금 대출
+
+malfunctioning : 고장난
+
+under warranty : 보증기간안에 있는
+public garage : 공용 주차장
+
+batch : 회수, 회
+bureau = department : 부서 사무실
+
+namely : 즉
+persist : 지속하다
+reside : 거주하다
+determine : 결정하다
+figure out : 알아내다, 해결하다
+
+trainee : 수습직원
+cultivate : 양성하다
+stipend : 생활비
+entitled : 자격을 주다
 ```
 ```
 23.07.25
