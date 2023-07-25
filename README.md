@@ -270,3 +270,13 @@ all of the 복수명사 복수동사
 others 복수동사
 게
 ```
+```
+23.07.25
+
+struggling :고군분투하는
+amenities : 편의시설
+
+put on : 신고 있는 행위
+
+
+```
