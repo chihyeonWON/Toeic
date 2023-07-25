@@ -278,5 +278,31 @@ amenities : 편의시설
 
 put on : 신고 있는 행위
 
+RC 분사
 
+to 부정사 <- 동사자리에 올 수 없다.
+ing + pp / 명사에 따라 달라짐
+능동,수동의 형태에 따라 능동 ing 수동 pp
+분사는 명사를 꾸며주는 형용사의 역할을 한다
+
+authorized delars 공인된 판매점
+more promising : 더 유망있는
+thriling : 짜릿한
+thrilled 아주기쁜
+
+accompained by ~동반되는
+tend to ~선호하는 경향이 있다.
+advisable = desirable 바람직한
+it is 형용사 to 부정사
+residue : 잔여물
+persist 지속되다
+
+when/where ~ing 목적어
+
+
+p.p + by
+
+빈칸뒤 목적어-> 현재분사 ing
+빈칸뒤 전치사,to,by 등 -> 과거분사 ed
+unless, otherwise, as 뒤 과거분사
 ```
