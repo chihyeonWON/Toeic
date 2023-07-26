@@ -677,3 +677,7 @@ p.p + by
 빈칸뒤 전치사,to,by 등 -> 과거분사 ed
 unless, otherwise, as 뒤 과거분사
 ```
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/ab8bad91-c121-475d-98a0-b6f951d87cb3)
+```
+모의토익 2차 07-26 ~ 08-04
+```
