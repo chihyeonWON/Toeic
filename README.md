@@ -681,3 +681,36 @@ unless, otherwise, as 뒤 과거분사
 ```
 모의토익 2차 07-26 ~ 08-04
 ```
+```
+RC 07-26
+
+to 부정사 <- 주어, 보어, 목적어
+
+주어로 쓰이는 경우 단수동사 취급
+보어 : ~하는 것
+형용사 : 명사를 뒤에서 꾸며줌 something to drink
+부사 : ~하기 위해서 문장의 끝이나 맨 앞에서to v, so as to, in order to 동사원형
+
+declined to ~ 하는 것을 거절하다
+
+would like to 동사원형
+notify 목적어o
+be notified 목적어x
+
+only to : 결국 ~하게 되었다.
+singled out 발탁하다, 선발하다
+
+동명사
+
+전치사 + 뒤에 명사가 있으면 동명사
+
+on behalf of : ~을 대신하여, 대표하여
+offset : 절충하다, 메꾸다
+
+weather disruptions = inclement weather 악천후
+
+spend 시간/돈 ing
+
+reassuring : 안심을주는
+
+```
