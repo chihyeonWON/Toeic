@@ -717,4 +717,14 @@ reassuring : 안심을주는
 ```
 obligate 감사한 마음이 우러나게 하다, 의무적인, 필수
 adverse : 불리한 adversely : 불리하게 부정적인
+specified : 지정된
+tentaive : 자신이 없는
+habitual: 습관적으로 하는
+timely : 시기적절한, 때맞춘
+conclusive: 확실한 결정적인
+subject 주제
+fled < flee의 과거형 < 달아나다 도망하다
+parcel : 소포
+compensate : 보상금을 주다
+
 ```
