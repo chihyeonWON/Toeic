@@ -714,3 +714,6 @@ spend 시간/돈 ing
 reassuring : 안심을주는
 
 ```
+```
+obligate 감사한 마음이 우러나게 하다, 의무적인, 필
+```
