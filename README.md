@@ -715,5 +715,6 @@ reassuring : 안심을주는
 
 ```
 ```
-obligate 감사한 마음이 우러나게 하다, 의무적인, 필
+obligate 감사한 마음이 우러나게 하다, 의무적인, 필수
+adverse : 불리한 adversely : 불리하게 부정적인
 ```
