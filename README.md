@@ -726,5 +726,26 @@ subject 주제
 fled < flee의 과거형 < 달아나다 도망하다
 parcel : 소포
 compensate : 보상금을 주다
+demote: 강등시키다
+bankrupt : 파산한
+acres : 에이커 (평)
+out of business : 폐업
+wages : 임금(돈)
+various : 다양한, 각양각색의
+consistent : 일관된
+senior 성인
+elementary student : 초등학생
+voluntary: 자발적인
+offer a gratitude : 감사를 전하다.
+eligible: 자격이 맞아서 가질 수 있는
+prompt : 촉진하다, 즉각적인, 유도하다
+chamber : 회의실
+dedicate : 헌신하다, 바치다
 
+
+문제에서 paragraphy 1이면 이중 문장에서 첫번째 문단에서 찾고
+paragraphy 2이면 이중 문장에서 두번째 문단에서 찾는다.
+line은 줄 수
+
+예를 들어 paragraphy 2 line 5 이면 2번째 문단에서 5번째 줄
 ```
