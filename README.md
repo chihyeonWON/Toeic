@@ -750,3 +750,65 @@ line은 줄 수
 
 예를 들어 paragraphy 2 line 5 이면 2번째 문단에서 5번째 줄
 ```
+```
+part5 문법
+
+전치사 + 명사 (despite, in spite of)
+동사 구분 법 1)실제 동사자리인가 2) 수일치 3) 능동/수동 4) 시제
+시제인데 시제는 예외가 있음
+
+시간/조건절(Unless, before 등등)이면 현재동사,현재완료 주절이면 미래동사씀
+
+부사절 접속사면 주절이 완벽한 문장 s+v 종류를 암기
+Now that = because S+V
+
+빈칸 뒤에 주어 동사 -> 접속사
+빈칸 뒤에 명사 -> 전치사
+이렇게 해도 안 걸러지면 해석하는데
+주절과 접속사절의 의미가 맞아야 함
+
+since 전치사 <- 이후로
+since 접속사 <- 하기 때문에 (조건)인데 시제불일치조건
+
+접속사 s + v, s + v 주절에 s + v 가 없는 불완전문장이면
+
+one, one another, each other -> 명사
+other -> 형용사
+
+other 만 형용사인점 
+each other , one another <- 주어 자리에 올수 없음
+
+few 많지 않은 <부정의 의미가 있음 (복수)
+a few < 
+수동태가 되려면 be 가 들어가 있어야 한다.
+
+several 뒤에 복수명사
+
+as well as : A 뿐만 아니라 B도 and의 의미
+
+so 가 접속사로 문장을 연결하려면 두 문장이 완벽해야함
+
+whether ~인지 아닌지 명사절 점속사
+
+s+v, s+v 두 문장이 컴마로만 이어질 수는 없음 < 따라서
+복합 관계 대명사를 고려해봐야한다 whichever 같은
+
+to는 뒤에 동사원형이 오는 to 부정사
+to는 전치사+명사
+두개로 구분해야하는데 해석해야함
+
+tend to ~
+
+동명사 ~ is 수일치가 안 맞을때 동명사생각
+
+to 부정사 뒤에 동사넣기 전에 빈칸 뒤에 동사 있으면 부사로 가야함
+
+빈칸 앞 뒤
+
+very, easily, by far + 최상급 최상급을 강조
+비교급을 강조하는 건 much, still, far. a lot, even
+
+not only but (also)
+
+regarding, about 전치사 + 명사 ~에 관해서
+```
