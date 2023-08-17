@@ -15,6 +15,7 @@ TOEIC 800 ~ on Summer Vacation.
 ![image](https://github.com/chihyeonWON/Toeic/assets/58906858/40f169e5-0438-46e0-a525-3ea43254cecc)
 
 ## 8.6 토익 시험 짧은 후기
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/c20edf78-268e-45fe-9502-e0440622e02e)
 ```
 part1 direction이 나올때 part5 문법문제 5문제 정도 풀고
 part1,2는 풀만한 느낌이였다. 에어컨을 껐는데 part3,4부터 집중력이 없어지기 시작함
@@ -55,7 +56,11 @@ part5 문법은 문법 정리영상이 많이 도움이 되었다. part6는 짧�
 ![image](https://github.com/chihyeonWON/Toeic/assets/58906858/606189e9-c3ee-443c-98d2-e4471681ed3e)         
 ![image](https://github.com/chihyeonWON/Toeic/assets/58906858/912b6cad-3fc7-4ced-bb62-4ba0851c31de)     
 ![image](https://github.com/chihyeonWON/Toeic/assets/58906858/d917d556-e10d-4e6c-9e0a-2a7a68f4054b)     
-![image](https://github.com/chihyeonWON/Toeic/assets/58906858/479edef5-33e6-4a1a-8709-77e8df06aba1)     
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/479edef5-33e6-4a1a-8709-77e8df06aba1)    
+
+## 하계토익 성적장학금
+![image](https://github.com/chihyeonWON/Toeic/assets/58906858/5e4a6f80-fd4e-4163-9859-652805803acc)
+
 ## 23.07.03
 ```
 RC 30문제 문법문제를 빠르게 풀어야함
