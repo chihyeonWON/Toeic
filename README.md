@@ -3,6 +3,9 @@ TOEIC 800 ~ on Summer Vacation.
 [시험 접수, 점수 확인](https://www.toeic.co.kr/)
 [시험 전 문법 정리](https://www.youtube.com/watch?v=Uli4q_y-G9c)
 
+## 모의토익
+![image](https://github.com/mr-won/Toeic/assets/58906858/40ff52b2-2da0-458b-a046-4d009ffcd19b)
+
 ## 시험 접수
 ![image](https://github.com/chihyeonWON/Toeic/assets/58906858/826b98e0-35a2-4b4b-b405-b92dbfc6545e)
 ```
